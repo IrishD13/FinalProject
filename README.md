@@ -2,6 +2,7 @@ FinalProject
 
 **Prediction of Border Crossing** 
 **Dataset Description**
+
     The Border Crossing Entry Data dataset provides monthly records of vehicle, equipment, passenger, and pedestrian border crossings into the U.S. at land ports of entry. This dataset will support predictive analysis by identifying patterns and trends in cross-border movements, aiding in forecasting future crossing volumes. Insights derived can inform border management strategies, traffic control, and policy planning for more efficient border operations.
 
 **Summary of Findings**
